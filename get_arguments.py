@@ -1,5 +1,6 @@
 import argparse
 
+
 logdir_path = './log'
 
 def get_arguments():
